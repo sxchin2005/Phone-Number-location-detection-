@@ -1,2 +1,2 @@
 # Phone-Number-location-detection-
-Mobile Number Detection using Pythoon
+Mobile Number Detection using Python
